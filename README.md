@@ -68,25 +68,25 @@ It simplifies healthcare record management and improves communication among medi
 
 ## 📸 Screenshots
 
-![Image](https://github.com/user-attachments/assets/785fd8bd-7d79-4342-9402-290867cb99b6)
+![Image](https://github.com/user-attachments/assets/84fcc8b3-911b-4cd6-8e39-a24eaea7493f)
 
-![Image](https://github.com/user-attachments/assets/631252fd-c683-4c86-ab38-7de622153746)
+![Image](https://github.com/user-attachments/assets/be866e3f-3f6b-414a-99a6-72031b5cb8fd)
 
-![Image](https://github.com/user-attachments/assets/f8a58702-02e2-41d7-bda2-c6dfa3728aed)
+![Image](https://github.com/user-attachments/assets/24afa036-aa5b-4177-81a2-4e88175eec9f)
 
-![Image](https://github.com/user-attachments/assets/09535d4c-6f96-437e-a975-1d2f2fb97b9f)
+![Image](https://github.com/user-attachments/assets/c46064b5-a9dd-4ea5-bb6f-475a30d77348)
 
-![Image](https://github.com/user-attachments/assets/2070e720-8742-499f-85ec-889511b53bf3)
+![Image](https://github.com/user-attachments/assets/7e60ac0e-b024-4e9f-a654-43af323f9da2)
 
-![Image](https://github.com/user-attachments/assets/3beb452d-c7e6-494e-a1bf-5f40decc0ea9)
+![Image](https://github.com/user-attachments/assets/10e30c77-efaa-45dd-8941-6f48ab96e76c)
 
-![Image](https://github.com/user-attachments/assets/48410c82-11d5-41b1-bed2-961b295ecf49)
+![Image](https://github.com/user-attachments/assets/b76e89ae-59cf-4695-afb5-7bbd9a0afebb)
 
-![Image](https://github.com/user-attachments/assets/af908fed-be8c-4a74-968a-5086fb3e4280)
+![Image](https://github.com/user-attachments/assets/fac5b5d0-f512-4323-ad2b-ecb5017a4551)
 
-![Image](https://github.com/user-attachments/assets/925b9829-7615-46d8-bf0e-6b6e06d3c5dc)
+![Image](https://github.com/user-attachments/assets/0dc09a77-5342-48ee-b2d1-00697a89d159)
 
-![Image](https://github.com/user-attachments/assets/979dc91e-11af-40cb-a4dd-41938a949bfa)
+![Image](https://github.com/user-attachments/assets/fc20971f-3446-434d-a12c-06c8b49b7ef2)
 
 ---
 
